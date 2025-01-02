@@ -4,6 +4,8 @@
 
 **evacuAR** is a next-generation evacuation system designed to save lives by simplifying the process of escaping from buildings during emergencies. It combines technologies like **LiDAR**, **NFC**, and **Augmented Reality (AR)** to offer an intuitive and reliable experience for users and emergency services alike.  
 
+> This project is made for the **National Mechatronics and Electrical Engineering Olympiad**.  
+
 ---
 
 ## 🛠️ **Key Features**  
@@ -32,7 +34,7 @@
 | Component         | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | **evacuAR App**    | Mobile app guiding users to safety with AR technology.                     |
-| **evacuAReader**   | Monitoring tool for real-time user location tracking by emergency teams.    |
+| **evacuAReader App**   | Monitoring tool for real-time user location tracking by emergency teams.    |
 | **MySQL Database** | Centralized storage of user location data.                                 |
 | **API**            | Ensures seamless communication between apps and database.                  |
 | **LiDAR Scanner**  | Creates detailed 3D building models for accurate navigation.               |
@@ -63,16 +65,14 @@
 
 ## 🖼️ **Screenshots**  
 
-| Screenshot | Description |
-|------------|-------------|
-|Will be add soon| Will be add soon|
+**WILL BE ADD SOON**
 
 ---
 
-## ✍️ Author  
+### ✍️ Author  
 **Tiwit27**  
 - GitHub: [Tiwit27](https://github.com/Tiwit27)  
-- Email: [lojekrafal27@gmail.com](mailto:lojekrafal27@gmail.com) 
+- Email: [lojekrafal27@gmail.com](mailto:lojekrafal27@gmail.com)
 
 > *Developed with the aim of making evacuation processes safer, smarter, and faster.*  
 
